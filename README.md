@@ -1,2 +1,6 @@
-# hello-world
-My first repository
+# Hello World
+
+Hello!
+
+I'm a Computation Systems student loving to learn GitHub!
+This is my first repository.
