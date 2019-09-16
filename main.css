@@ -1,0 +1,61 @@
+* {
+	margin: 0;
+	font-family: Arial, sans-serif;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	font-weigth: bold;
+}
+
+a:hover {
+	color: #ccc;
+}
+
+header {
+	text-align: center;
+}
+
+header, nav {
+	background-color: dodgerblue;
+	color: white;
+}
+
+.headerText {
+	padding: 50px 0;
+	line-height: 40px;
+}
+
+.headerText p {
+	font-size: 18px;
+	font-weight: 100;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h2 {
+	font-size: 14px;
+	font-weight: 100;
+}
+
+h3 {
+	font-size: 18px;
+	font-weight: 400;
+}
+
+nav {
+	text-align: right;
+	font-weight: 600;
+}
+
+nav ul li {
+	display: inline-block;
+	padding: 10px;
+}
+
+.sobre, .projetos, .habilidades, .formacao, .contato {
+	padding: 10px;
+}
