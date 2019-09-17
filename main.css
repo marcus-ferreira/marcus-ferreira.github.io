@@ -2,60 +2,61 @@
 	margin: 0;
 	font-family: Arial, sans-serif;
 }
-
 a {
 	color: white;
 	text-decoration: none;
-	font-weigth: bold;
+	font-weight: bold;
 }
-
 a:hover {
 	color: #ccc;
 }
-
 header {
 	text-align: center;
 }
-
 header, nav {
 	background-color: dodgerblue;
 	color: white;
 }
-
-.headerText {
+.header-text {
 	padding: 50px 0;
-	line-height: 40px;
+	line-height: 50px;
 }
-
-.headerText p {
+.header-text p {
 	font-size: 18px;
 	font-weight: 100;
 }
-
+.header-text img {
+    padding: 10px;
+}
 h1 {
 	font-size: 40px;
 }
-
 h2 {
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 100;
 }
-
 h3 {
 	font-size: 18px;
 	font-weight: 400;
 }
-
 nav {
 	text-align: right;
 	font-weight: 600;
 }
-
 nav ul li {
 	display: inline-block;
 	padding: 10px;
 }
-
-.sobre, .projetos, .habilidades, .formacao, .contato {
-	padding: 10px;
+.section {
+    padding: 10px 0;
+}
+.projetos-links ul {
+    padding: 0;
+}
+.projetos-links ul li {
+    display: inline-block;
+    background-color: tomato;
+    padding: 50px;
+    width: 22.34%;
+    height: 150px;
 }
