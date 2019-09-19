@@ -1,54 +1,85 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
-	<head>
-		<link href="main.css" rel="stylesheet">
-		<title>Portfolio</title>
-	</head>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="main.css" rel="stylesheet">
+    <title>Portfolio</title>
+  </head>
 
-	<body>
-		<header>
-			<nav>
-				<ul>
-					<li><a href="#sobre">SOBRE MIM</a></li>
-					<li><a href="#projetos">PROJETOS</a></li>
-					<li><a href="#formacao">FORMAÇÃO</a></li>
-				</ul>
-			</nav>
-			<div class="header-text">
-				<p>Olá! Meu nome é</p>
-				<h1>Marcus Ferreira</h1>
-				<h2>Desenvolvedor Front-end<h2>
-				<a href="mailto:mv.ferreirapinto@gmail.com"><img src="images/icon-email.png" alt="email"></a>
-				<a href="http://www.linkedin.com/in/marcusviniciusfp/" target="_blank"><img src="images/icon-linkedin.png" alt="linkedin"></a>
-				<a href="https://github.com/marcus-ferreira" target="_blank"><img src="images/icon-github.png" alt="github"></a>
-			</div>
-		</header>
-		<section class="section sobre">
-			<h3>SOBRE MIM</h3>
-			<p>Estudante de Sistemas de Computação, amo/sou aprender novas tecnologias e desafios. Apaixonado pelo que faz, procuro entender a real necessidade para entregar uma experiência de qualidade.</p>
-		</section>
-		<section class="section projetos">
-			<h3>PROJETOS</h3>
-            <div class="projetos-links">
-                <ul>
-                    <li>Projeto 1</li>
-                    <li>Projeto 2</li>
-                    <li>Projeto 3</li>
-                    <li>Projeto 4</li>
-                    <li>Projeto 5</li>
-                    <li>Projeto 6</li>
-                </ul>
-            </div>
-		</section>
-		<section class="section habilidades">
-			<h3>HABILIDADES</h3>
-			<p>Habilidades</p>
-		</section>
-		<section class="section formacao">
-			<h3>FORMAÇÃO</h3>
-			<p> UFF - Tecnologia em Sistemas de Computação</p>
-			<p>1º período</p>
-		</section>
-	</body>
-      
+  <body>
+
+    <!-- Cabeçalho -->
+    <header>
+
+      <!-- Navegação -->
+      <nav>
+        <ul class="nav-list">
+          <li><a href="#inicio">Início</a></li>
+          <li><a href="#sobre">Sobre mim</a></li>
+          <li><a href="#projetos">Projetos</a></li>
+          <li><a href="#conhecimentos">Conhecimentos</a></li>
+        </ul>
+      </nav>
+
+      <!-- Texto do cabeçalho -->
+      <div class="header-text">
+        <p class="header-text-item">Olá! Meu nome é</p>
+        <h1 class="header-text-item">Marcus Ferreira</h1>
+        <p class="header-text-item">Desenvolvedor Front-end<p>
+      </div>
+
+      <!-- Ícones de contato -->
+      <div class="contact-icon">
+        <a href="mailto:mv.ferreirapinto@gmail.com"><img src="images/icon-email.png" alt="email"></a>
+        <a href="http://www.linkedin.com/in/marcusviniciusfp/" target="_blank"><img src="images/icon-linkedin.png" alt="linkedin"></a>
+        <a href="https://github.com/marcus-ferreira" target="_blank"><img src="images/icon-github.png" alt="github"></a>
+      </div>
+
+    </header>
+
+    <!-- Conteúdo principal -->
+    <main>
+
+    <!-- Sobre mim -->
+    <section id="sobre">
+      <h3 class="section-text">SOBRE MIM</h3>
+      <p class="section-text">Estudante de Sistemas de Computação, amo/sou aprender novas tecnologias e desafios. Apaixonado pelo que faz, procuro entender a real necessidade para entregar uma experiência de qualidade.</p>
+    </section>
+
+    <!-- Projetos -->
+    <section id="projetos">
+      <h3 class="section-text">PROJETOS</h3>
+
+      <!-- Quadros de projetos -->
+      <div class="projetos-links">
+        <ul class="projetos-list">
+          <li><a href="#">Projeto 1</a></li>    <!-- Trocar por img -->
+          <li><a href="#">Projeto 2</a></li>
+          <li><a href="#">Projeto 3</a></li>
+          <li><a href="#">Projeto 4</a></li>
+          <li><a href="#">Projeto 5</a></li>
+          <li><a href="#">Projeto 6</a></li>
+        </ul>
+      </div>
+    </section>
+    
+    <!-- Conhecimentos -->
+    <section id="conhecimentos">
+      <h3 class="section-text">CONHECIMENTOS</h3>
+      <p class="section-text">Conhecimentos</p>
+    </section>
+
+    <!-- Formação -->
+    <section id="formacao">
+      <h3 class="section-text">FORMAÇÃO</h3>
+      <p class="section-text"> UFF - Tecnologia em Sistemas de Computação</p>
+      <p class="section-text">1º período</p>
+    </section>
+
+    </main>
+
+
+
+  </body>
+
 </html>

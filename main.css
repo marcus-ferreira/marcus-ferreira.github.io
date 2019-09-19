@@ -1,62 +1,70 @@
+/* Geral */
 * {
-	margin: 0;
-	font-family: Arial, sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
 }
-a {
-	color: white;
-	text-decoration: none;
-	font-weight: bold;
-}
-a:hover {
-	color: #ccc;
-}
+
+/* Textos */
+h1 {font-size: 40px;}
+h2 {font-size: 16px; font-weight: 100;}
+p  {font-size: 16px;}
+
+/* Elementos */
 header {
-	text-align: center;
+  background-color: dodgerblue;
+  color: white;
+  text-align: center;
+  height: 100vh;
 }
-header, nav {
-	background-color: dodgerblue;
-	color: white;
-}
-.header-text {
-	padding: 50px 0;
-	line-height: 50px;
-}
-.header-text p {
-	font-size: 18px;
-	font-weight: 100;
-}
-.header-text img {
-    padding: 10px;
-}
-h1 {
-	font-size: 40px;
-}
-h2 {
-	font-size: 16px;
-	font-weight: 100;
-}
-h3 {
-	font-size: 18px;
-	font-weight: 400;
-}
+
 nav {
-	text-align: right;
-	font-weight: 600;
+  text-align: right;
+  font-weight: 600;
 }
-nav ul li {
-	display: inline-block;
-	padding: 10px;
+
+section {
+  padding: 30px 0;
 }
-.section {
-    padding: 10px 0;
+
+/* Classes */
+.contact-icon {
+  padding: 30px 0;
 }
-.projetos-links ul {
-    padding: 0;
+
+.contact-icon img {
+  padding: 0 10px;
 }
-.projetos-links ul li {
-    display: inline-block;
-    background-color: tomato;
-    padding: 50px;
-    width: 22.34%;
-    height: 150px;
+
+.header-text {
+  padding-top: 25vh;
+  width: 70%;
+  margin: auto;
+}
+
+.header-text-item {
+  padding: 5px 0;
+}
+
+.nav-list a {
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.nav-list li {
+  display: inline-block;
+  padding: 10px;
+}
+
+.projetos-list li {
+  display: inline-flex;
+  background-color: tomato;
+  padding: 40px;
+  margin: 10px;
+}
+
+.section-text {
+  padding: 10px 20px;
 }
