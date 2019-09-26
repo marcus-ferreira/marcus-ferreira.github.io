@@ -11,7 +11,7 @@
 h1 {font-size: 50px;}
 h2 {font-size: 40px;}
 h3 {font-size: 24px;}
-p  {font-size: 16px;}
+p  {font-size: 18px;}
 
 
 /* Elementos */
@@ -25,6 +25,9 @@ header {
 nav {
     text-align: right;
     font-weight: 600;
+	position: fixed;
+	background-color: dodgerblue;
+	width: 100%;
 }
 
 section {
@@ -62,11 +65,15 @@ section {
     padding: 10px;
 }
 
+.projetos-links {
+	text-align: center;
+}
+
 .projetos-list li {
-    display: inline-flex;
-    background-color: tomato;
-    padding: 40px;
-    margin: 10px;
+    display: inline-block;
+	background-color: tomato;
+	padding: 100px;
+	margin: 10px;
 }
 
 .section-text {
