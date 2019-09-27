@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<title>TMB</title>
+		<link rel="stylesheet" type="text/css" href="main.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+	<body>
+
+        <div class="title">
+            <h1>CALCULADORA DE<br>TAXA METABÓLICA BASAL<br>(TMB)</h1>
+        </div>
+
+        <div class="form">
+            <p>Selecione o sexo</p>
+            <select id="sexo">
+                <option>Masculino</option>
+                <option>Feminino</option>
+            </select>
+
+            <p>Digite seu peso (somente os números, em kg)</p>
+            <input type="number" min="0" max="300" id="peso">
+
+            <p>Digite sua altura (somente os números, em cm)</p>
+            <input type="number" min="0" max="300" id="altura">
+
+            <p>Digite sua idade (somente os números)</p>
+            <input type="number" min="0" max="120" id="idade">
+
+            <p>Qual seu nível de atividade</p>
+            <select id="atividade">
+                <option>Sedentário</option>
+                <option>Levemente ativo</option>
+                <option>Moderavelmente ativo</option>
+                <option>Muito ativo</option>
+                <option>Extremamente ativo</option>
+            </select>
+
+            <br><br>
+
+            <button onclick="calcular()">Calcular</button>
+        </div>
+
+            <p id="resultadoTmb"></p>
+            <p id="resultadoCaloria"></p>
+        
+        <!--Scripts-->
+        <script src="tmb.js"></script>
+    </body>
+</html>
