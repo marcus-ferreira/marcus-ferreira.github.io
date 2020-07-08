@@ -1,6 +1,3 @@
-## Objetivo
-Estágio em T.I / Programação Python / Data Science
-
 ## Perfil
 Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e com conhecimentos em programação, busco aprendizado e crescimento na área.
 
