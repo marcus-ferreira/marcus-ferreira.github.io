@@ -15,7 +15,7 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 * Javascript/jQuery/Bootstrap - Básico
 
 ## Formação
-**UFF** - Tecnólogo em Sistemas de Computação (3º período)
+**UFF** - Tecnologia em Sistemas de Computação (3º período)
 
 **UNESA** - Administração de Empresas (2015)
 
@@ -36,7 +36,7 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 * Resolução de demandas pontuais dos clientes em eventos.
 
 ## Contato
-(21) 97927-0144 / (21) 3079-1475
+(21) 97927-0144 / (21) 96967-1343 / (21) 3079-1475
 
 mv.ferreirapinto@gmail.com
 
