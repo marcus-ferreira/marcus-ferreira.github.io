@@ -6,9 +6,9 @@
 
 mv.ferreirapinto@gmail.com
 
-http://linkedin.com/in/marcusviniciusfp/
+[linkedin.com/in/marcusviniciusfp](http://linkedin.com/in/marcusviniciusfp/)
 
-http://github.com/marcus-ferreira/
+[github.com/marcus-ferreira](http://github.com/marcus-ferreira/)
 
 ## Perfil
 Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e com conhecimentos em programação, busco aprendizado e crescimento na área.
