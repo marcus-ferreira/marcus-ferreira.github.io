@@ -22,7 +22,7 @@ Administração de Empresas (2015)
 #### D'Or Soluções
 **Auxiliar Administrativo** - 03/2020 até atualmente (4 meses)
 * Criação e alimentação de relatórios de controle de atendimento;
-* Suporte a manutenção de hardwares e configuração de softwares.
+* Suporte a manutenção de hardware, configuração de software e suporte ao usuário.
 
 **Recepcionista** - 06/2018 até 03/2020 (1 ano e 3 meses)
 * Atendimento e recepção ao cliente;
