@@ -20,7 +20,7 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 **UNESA** - Administração de Empresas (2015)
 
 ## Experiência
-#### D'Or Soluções
+### D'Or Soluções
 **Auxiliar Administrativo** - 03/2020 até atualmente (4 meses)
 * Criação e alimentação de relatórios de controle de atendimento;
 * Suporte a manutenção de hardware, configuração de software e suporte ao usuário.
@@ -29,7 +29,7 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 * Atendimento e recepção ao cliente;
 * Marcação de exames ocupacionais.
 
-#### Hotel Fasano Rio de Janeiro
+### Hotel Fasano Rio de Janeiro
 **Auxiliar de Eventos Jr.** - 07/2016 até 11/2017 (1 ano e 4 meses)
 * Montagens e desmontagens de eventos internos e externos;
 * Contato bilíngue com clientes;
