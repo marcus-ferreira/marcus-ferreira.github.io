@@ -28,7 +28,7 @@ Universidade Federal Fluminense
 Tecnólogo em Sistemas de Computação (3º período)
 
 Universidade Estácio de Sá
-Administração de Empresas (2010)
+Administração de Empresas (2015)
 
 ## Experiência
 #### D'Or Soluções
