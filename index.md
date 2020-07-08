@@ -1,6 +1,3 @@
-# Marcus Ferreira
-### Estagiário de T.I.
-
 ## Contato
 (21) 97927-0144 / (21) 3079-1475
 
