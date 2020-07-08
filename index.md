@@ -2,21 +2,18 @@
 Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e com conhecimentos em programação, busco aprendizado e crescimento na área.
 
 ## Idiomas
-* Inglês
-* Espanhol
+* Inglês - Fluente
+* Espanhol - Intermediário
 
 ## Conhecimentos
-* Python
-* Git
-* HTML/CSS
-* Javascript/jQuery/Bootstrap
+* Python - Intermediário
+* Git - Básico
+* HTML/CSS - Avançado
+* Javascript/jQuery/Bootstrap - Básico
 
 ## Formação
-Universidade Federal Fluminense
-Tecnólogo em Sistemas de Computação (3º período)
-
-Universidade Estácio de Sá
-Administração de Empresas (2015)
+**UFF** - Tecnólogo em Sistemas de Computação (3º período)
+**UNESA** - Administração de Empresas (2015)
 
 ## Experiência
 #### D'Or Soluções
