@@ -36,10 +36,10 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 * Resolução de demandas pontuais dos clientes em eventos.
 
 ## Contato
-(21) 97927-0144 / (21) 96967-1343 / (21) 3079-1475
+Telefones: (21) 97927-0144 / (21) 96967-1343 / (21) 3079-1475
 
-mv.ferreirapinto@gmail.com
+E-mail: mv.ferreirapinto@gmail.com
 
-[linkedin.com/in/marcusviniciusfp](http://linkedin.com/in/marcusviniciusfp/)
+Github: [github.com/marcus-ferreira](http://github.com/marcus-ferreira)
 
-[github.com/marcus-ferreira](http://github.com/marcus-ferreira/)
+LinkedIn: [linkedin.com/in/marcusviniciusfp](http://linkedin.com/in/marcusviniciusfp/)
