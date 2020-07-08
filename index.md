@@ -1,12 +1,3 @@
-## Contato
-(21) 97927-0144 / (21) 3079-1475
-
-mv.ferreirapinto@gmail.com
-
-[linkedin.com/in/marcusviniciusfp](http://linkedin.com/in/marcusviniciusfp/)
-
-[github.com/marcus-ferreira](http://github.com/marcus-ferreira/)
-
 ## Perfil
 Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e com conhecimentos em programação, busco aprendizado e crescimento na área.
 
@@ -42,3 +33,12 @@ Administração de Empresas (2015)
 * Montagens e desmontagens de eventos internos e externos;
 * Contato bilíngue com clientes;
 * Resolução de demandas pontuais dos clientes em eventos.
+
+## Contato
+(21) 97927-0144 / (21) 3079-1475
+
+mv.ferreirapinto@gmail.com
+
+[linkedin.com/in/marcusviniciusfp](http://linkedin.com/in/marcusviniciusfp/)
+
+[github.com/marcus-ferreira](http://github.com/marcus-ferreira/)
