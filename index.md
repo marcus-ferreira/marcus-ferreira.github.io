@@ -1,47 +1,43 @@
-﻿# Marcus Ferreira
-### Estudante de T.I.
+# Marcus Ferreira
+### Estagiário de T.I.
 
-Teste de Texto
-
-CONTATO
+## Contato
 (21) 97927-0144 / (21) 3079-1475
 mv.ferreirapinto@gmail.com
-linkedin.com/in/marcusviniciusfp/
+[LinkedIn](http://linkedin.com/in/marcusviniciusfp/)
 
-PERFIL
+## Perfil
 Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e com conhecimentos em HTML5, CSS3 e JS, busco aprendizado e crescimento na área de desenvolvimento web/programação.
 
-IDIOMAS
-INGLÊS
-ESPANHOL
+## Idiomas
+* Inglês
+* Espanhol
 
-HABILIDADES
-JAVASCRIPT
-JQUERY
-HTML
-CSS
-BOOTSTRAP
+## Conhecimentos
+* HTML/CSS
+* Javascript/jQuery/Bootstrap
+* Python
+* Git
 
-FORMAÇÃO
-UNIVERSIDADE FEDERAL FLUMINENSE
-TECNÓLOGO EM SISTEMAS DE COMPUTAÇÃO
-2019 - atualmente 3º período
+## Formação
+Universidade Federal Fluminense
+Tecnólogo em Sistemas de Computação (3º período)
 
-UNIVERSIDADE ESTÁCIO DE SÁ
-ADMINISTRAÇÃO DE EMPRESAS
+Universidade Estácio de Sá
+Administração de Empresas (2010)
 
-EXPERIÊNCIA
-D’OR SOLUÇÕES | RECEPCIONISTA 06/2018 - atualmente 1 ano e 2 meses
-- Atendimento e recepção ao cliente;
-- Marcação de exames ocupacionais;
-- Resolução ocasional de problemas relacionados a manutenção de hardwares e configuração de sistemas.
-- Criação e alimentação de relatórios de controle de atendimento.
+## Experiência
+#### D'Or Soluções
+Auxiliar Administrativo - 03/2020 até atualmente (4 meses)
+* Criação e alimentação de relatórios de controle de atendimento;
+* Suporte a manutenção de hardwares e configuração de softwares.
 
-HOTEL FASANO | AUXILIAR DE EVENTOS JR. 07/2016 - 11/2017 1 ano e 4 meses
-- Montagens e desmontagens de eventos internos e externos.
-- Contato bilíngue com clientes;
-- Resolução de demandas pontuais dos clientes em eventos.
+Recepcionista - 06/2018 até 03/2020 (1 ano e 3 meses)
+* Atendimento e recepção ao cliente;
+* Marcação de exames ocupacionais.
 
-INTO | RECEPCIONISTA 12/2015 - 07/2016 7 meses
-- Liberação de alta de pacientes;
-- Organização e manutenção de arquivos e prontuários no posto de enfermagem.
+#### Hotel Fasano Rio de Janeiro
+Auxiliar de Eventos Jr. - 07/2016 até 11/2017 (1 ano e 4 meses)
+* Montagens e desmontagens de eventos internos e externos;
+* Contato bilíngue com clientes;
+* Resolução de demandas pontuais dos clientes em eventos.
