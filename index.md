@@ -16,6 +16,7 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 
 ## Formação
 **UFF** - Tecnólogo em Sistemas de Computação (3º período)
+
 **UNESA** - Administração de Empresas (2015)
 
 ## Experiência
