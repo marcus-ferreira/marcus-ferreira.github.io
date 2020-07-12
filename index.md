@@ -14,7 +14,7 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 ## Formação
 **UFF** - Tecnologia em Sistemas de Computação (3º período)
 
-**UNESA** - Administração de Empresas (2015)
+**UNESA** - Bacharelado em Administração de Empresas (2015)
 
 ## Experiência
 ### D'Or Soluções
