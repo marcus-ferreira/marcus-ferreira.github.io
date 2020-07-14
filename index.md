@@ -33,8 +33,6 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 * Resolução de demandas pontuais dos clientes em eventos.
 
 ## Contato
-Telefones: (21) 97927-0144 / (21) 96967-1343 / (21) 3079-1475
-
 E-mail: mv.ferreirapinto@gmail.com
 
 Github: [github.com/marcus-ferreira](http://github.com/marcus-ferreira)
