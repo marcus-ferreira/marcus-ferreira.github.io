@@ -8,8 +8,10 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 ## Conhecimentos
 * Python - Intermediário
 * Git - Básico
-* HTML/CSS - Avançado
-* Javascript/jQuery/Bootstrap - Básico
+* HTML/CSS - Intermediário
+* JavaScript/jQuery/Bootstrap - Básico
+* Microsoft Office (Excel, Word, PowerPoint) - Intermediário
+* Adobe Photoshop - Básico
 
 ## Formação
 **UFF** - Tecnologia em Sistemas de Computação (3º período)
@@ -20,7 +22,7 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 ### D'Or Soluções
 **Auxiliar Administrativo** - 03/2020 até atualmente (4 meses)
 * Criação e alimentação de relatórios de controle de atendimento;
-* Suporte ao usuário, manutenção de hardware e configuração de software.
+* Eventual suporte ao usuário, manutenção de hardware e configuração de software.
 
 **Recepcionista** - 06/2018 até 03/2020 (1 ano e 3 meses)
 * Atendimento e recepção ao cliente;
