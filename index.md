@@ -14,9 +14,8 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 * Adobe (Photoshop, Illustrator) - Básico
 
 ## Formação
-**UFF** - Tecnologia em Sistemas de Computação (3º período)
-
-**UNESA** - Bacharelado em Administração de Empresas (2015)
+* **UFF** - Tecnologia em Sistemas de Computação (3º período)
+* **UNESA** - Bacharelado em Administração de Empresas (2015)
 
 ## Experiência
 ### D'Or Soluções
@@ -36,8 +35,6 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 * Apoio bilíngue e resolução de demandas pontuais dos clientes em eventos;
 
 ## Contato
-E-mail: mv.ferreirapinto@gmail.com
-
-Github: [github.com/marcus-ferreira](http://github.com/marcus-ferreira)
-
-LinkedIn: [linkedin.com/in/marcusviniciusfp](http://linkedin.com/in/marcusviniciusfp/)
+* E-mail: mv.ferreirapinto@gmail.com
+* Github: [github.com/marcus-ferreira](http://github.com/marcus-ferreira)
+* LinkedIn: [linkedin.com/in/marcusviniciusfp](http://linkedin.com/in/marcusviniciusfp/)
