@@ -8,6 +8,7 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 ## Conhecimentos
 * Python - Intermediário
 * Git - Básico
+* Power BI - Básico
 * HTML/CSS - Intermediário
 * JavaScript/jQuery/Bootstrap - Básico
 * Microsoft Office (Excel, Word, PowerPoint) - Intermediário
