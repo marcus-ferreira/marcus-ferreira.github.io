@@ -15,7 +15,7 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 * Adobe (Photoshop, Illustrator) - Básico
 
 ## Formação
-* **UFF** - Tecnologia em Sistemas de Computação (3º período)
+* **UFF** - Tecnologia em Sistemas de Computação (3º período, CR 8.3)
 * **UNESA** - Bacharelado em Administração de Empresas (2015)
 
 ## Experiência
