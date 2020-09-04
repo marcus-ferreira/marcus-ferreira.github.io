@@ -6,13 +6,9 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 * Espanhol - Intermediário
 
 ## Conhecimentos
-* Python - Intermediário
-* HTML/CSS - Intermediário
-* Microsoft Excel - Intermediário
-* Git - Básico
-* Power BI - Básico
-* JavaScript/jQuery/Bootstrap - Básico
-* Adobe Photoshop - Básico
+* Linguagens: Python, HTML/CSS, JavaScript/jQuery/Bootstrap
+* Softwares: Excel, Power BI, Photoshop
+* Versionamento: Git/GitHub
 
 ## Formação
 * **UFF** - Tecnologia em Sistemas de Computação (3º período, CR 8.3)
