@@ -1,11 +1,8 @@
 ## Perfil
 Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e com conhecimentos em programação, busco aprendizado e crescimento na área.
 
-## Idiomas
-* Inglês - Fluente
-* Espanhol - Intermediário
-
 ## Conhecimentos
+* Idiomas: Inglês, Espanhol
 * Linguagens: Python, HTML/CSS, JavaScript/jQuery/Bootstrap
 * Softwares: Excel, Power BI, Photoshop
 * Versionamento: Git/GitHub
