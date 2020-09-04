@@ -16,7 +16,7 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 **Auxiliar Administrativo** - 03/2020 até atualmente
 * Marcação de exames ocupacionais;
 * Criação e alimentação de relatórios de controle de atendimento;
-* Criação de algoritmos para controle de atendimento;
+* Criação de [https://github.com/marcus-ferreira/algoritmos-python/blob/master/contagem-pesquisas.py](algoritmo) para pesquisa de qualidade;
 * Eventual suporte ao usuário, manutenção de hardware e configuração de software.
 
 **Recepcionista** - 06/2018 até 03/2020 (1 ano e 4 meses)
