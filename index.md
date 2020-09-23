@@ -1,5 +1,3 @@
-# Marcus Ferreira
-
 ## Perfil
 Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e com conhecimentos em programação, busco aprendizado e crescimento na área.
 
@@ -14,7 +12,7 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 * **UNESA** - Bacharelado em Administração de Empresas (2015)
 
 ## Experiência
-### D'Or Soluções
+### *D'Or Soluções*
 **Auxiliar Administrativo** - 03/2020 até atualmente
 * Marcação de exames ocupacionais;
 * Criação e alimentação de relatórios de controle de atendimento;
@@ -25,7 +23,7 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 * Atendimento e recepção ao cliente;
 * Emissão de atestados de saúde ocupacional (ASO).
 
-### Hotel Fasano Rio de Janeiro
+### *Hotel Fasano Rio de Janeiro*
 **Auxiliar de Eventos Jr.** - 07/2016 até 11/2017 (1 ano e 4 meses)
 * Montagens e desmontagens de eventos internos e externos;
 * Apoio bilíngue e resolução de demandas pontuais dos clientes em eventos.
