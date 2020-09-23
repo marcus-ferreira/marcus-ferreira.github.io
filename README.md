@@ -1,3 +1,3 @@
-# Hello World
+# Hello World!
 
-I'm a Computation Systems student loving to learn GitHub!
+I'm a *Computation Systems* student eager to **learn**!
