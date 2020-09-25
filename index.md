@@ -3,9 +3,10 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 
 ## Conhecimentos
 * Idiomas: Inglês, Espanhol
-* Linguagens: Python, HTML/CSS, JavaScript
-* Softwares: Excel, Power BI, Photoshop
+* Linguagens: Python, SQL, HTML/CSS, JavaScript
+* Banco de Dados: Microsoft SQL Server
 * Versionamento: Git/GitHub
+* Softwares: Excel, Power BI, Photoshop
 
 ## Formação
 * **UFF** - Tecnologia em Sistemas de Computação (3º período, CR 8.3)
