@@ -3,7 +3,7 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 
 ## Conhecimentos
 * **Idiomas**: Inglês, Espanhol
-* **Linguagens**: Python, SQL, HTML/CSS, JavaScript
+* **Linguagens**: Python (Tkinter/Pandas), SQL, HTML/CSS, JavaScript
 * **Banco de Dados**: Microsoft SQL Server
 * **Versionamento**: Git/GitHub
 * **Softwares**: Excel, Power BI, Photoshop
@@ -17,7 +17,7 @@ Cursando Tecnologia em Sistemas de Computação pela UFF, fluente em inglês e c
 **Auxiliar Administrativo** - 03/2020 até atualmente
 * Marcação de exames ocupacionais;
 * Criação e alimentação de relatórios de controle de atendimento;
-* Criação de algoritmo para contagem de pesquisa de qualidade. [(Link)](https://github.com/marcus-ferreira/algoritmos-python/blob/master/contagem-pesquisas.py);
+* Criação de algoritmo para contagem de pesquisa de qualidade. [(Link)](https://github.com/marcus-ferreira/python-programs/blob/master/survey_count.py);
 * Eventual suporte ao usuário, manutenção de hardware e configuração de software.
 
 **Recepcionista** - 06/2018 até 03/2020 (1 ano e 4 meses)
