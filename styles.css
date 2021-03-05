@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    background-image: linear-gradient(#140396, #8179ba);
+    background-image: linear-gradient(#373B44, #4286f4);
 }
 
 header, h1, h2 {
@@ -39,5 +39,5 @@ a {
 
 a:hover {
     background-color: white;
-    color: #140396;
+    color: #373B44;
 }
