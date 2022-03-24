@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+### Welcome to my page!
 
-You can use the [editor on GitHub](https://github.com/marcus-ferreira/marcus-ferreira.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Computing Systems student at UFF, I'm self-taught in tech, having knowledge at programming logic and languages as: Java, C#, JavaScript and Python. I'm looking for my first job opportunity to improve my knowledge and experience.
 
-### Markdown
+### Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Age: 29
+Location: Rio de Janeiro, RJ, Brazil
+Languages: Portuguese, English, Spanish
 
-```markdown
-Syntax highlighted code block
+### Skills
 
-# Header 1
-## Header 2
-### Header 3
+Knowledge:
+``` Python, JavaScript, C#, Java, HTML/CSS, SQL ```
+``` Windows, Linux ```
+``` Git, GitHub ```
 
-- Bulleted
-- List
+### Education
 
-1. Numbered
-2. List
+2019 - Present: UFF - Universidade Federal Fluminense - Technology in Computing Systems
+2015: UNESA - Universidade Estácio de Sá - Business Administration
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcus-ferreira/marcus-ferreira.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Linkedin: [/emarcusferreira/](https://www.linkedin.com/in/emarcusferreira/)
+GitHub: [/marcus-ferreira](https://github.com/marcus-ferreira)
+Email: [mv.ferreirapinto@gmail.com](mailto:mv.ferreirapinto@gmail.com)
+Phone: +55 (21) 97927-0144
