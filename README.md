@@ -26,9 +26,9 @@ Computing Systems student at UFF, I'm self-taught in tech, having knowledge at p
 
 ### Skills
 
-**Programming** `Python, JavaScript, C#, Java, HTML/CSS, SQL` <br>
-**OS** `Windows, Linux` <br>
-**Tools** `Git, GitHub, Visual Studio, Visual Studio Code`
+Programming: `Python, JavaScript, C#, Java, HTML/CSS, SQL` <br>
+OS: `Windows, Linux` <br>
+Tools: `Git, GitHub, Visual Studio, Visual Studio Code`
 
 
 ### Education
@@ -44,7 +44,7 @@ Business Administration <br>
 
 ### Contact
 
-**Linkedin**: [/emarcusferreira/](https://www.linkedin.com/in/emarcusferreira/) <br>
-**GitHub**: [/marcus-ferreira](https://github.com/marcus-ferreira) <br>
-**Email**: [mv.ferreirapinto@gmail.com](mailto:mv.ferreirapinto@gmail.com) <br>
-**Phone**: +55 (21) 97927-0144
+Linkedin: [/emarcusferreira/](https://www.linkedin.com/in/emarcusferreira/) <br>
+GitHub: [/marcus-ferreira](https://github.com/marcus-ferreira) <br>
+Email: [mv.ferreirapinto@gmail.com](mailto:mv.ferreirapinto@gmail.com) <br>
+Phone: +55 (21) 97927-0144
