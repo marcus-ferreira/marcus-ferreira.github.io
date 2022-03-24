@@ -1,11 +1,11 @@
 ## Marcus Ferreira
 
-### 👥 About
+### About
 
 Computing Systems student at UFF, I'm self-taught in tech, having knowledge at programming logic and languages as: Java, C#, JavaScript and Python. I'm looking for my first job opportunity to improve my knowledge and experience.
 
 
-### 📄 Personal Information
+### Personal Information
 
 ```json
 {
@@ -24,27 +24,27 @@ Computing Systems student at UFF, I'm self-taught in tech, having knowledge at p
 ```
 
 
-### 💻 Skills
+### Skills
 
-**Knowledge**
-
-Python, JavaScript, C#, Java, HTML/CSS, SQL
-
-Windows, Linux
-
-Git, GitHub, Visual Studio, Visual Studio Code
+**Programming** `Python, JavaScript, C#, Java, HTML/CSS, SQL` <br>
+**OS** `Windows, Linux` <br>
+**Tools** `Git, GitHub, Visual Studio, Visual Studio Code`
 
 
-### 📚 Education
+### Education
 
-*2019 - Present*: **UFF (Universidade Federal Fluminense)** - Technology in Computing Systems
+**UFF - Universidade Federal Fluminense** <br>
+Technology in Computing Systems <br>
+*2019 - Present*
 
-*2015*: **UNESA (Universidade Estácio de Sá)** - Business Administration
+**UNESA - Universidade Estácio de Sá** <br>
+Business Administration <br>
+*2015*
 
 
-### 📧 Contact
+### Contact
 
-**Linkedin**: [/emarcusferreira/](https://www.linkedin.com/in/emarcusferreira/)
-**GitHub**: [/marcus-ferreira](https://github.com/marcus-ferreira)
-**Email**: [mv.ferreirapinto@gmail.com](mailto:mv.ferreirapinto@gmail.com)
+**Linkedin**: [/emarcusferreira/](https://www.linkedin.com/in/emarcusferreira/) <br>
+**GitHub**: [/marcus-ferreira](https://github.com/marcus-ferreira) <br>
+**Email**: [mv.ferreirapinto@gmail.com](mailto:mv.ferreirapinto@gmail.com) <br>
 **Phone**: +55 (21) 97927-0144
