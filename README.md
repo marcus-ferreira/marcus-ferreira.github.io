@@ -1,10 +1,11 @@
 ## Marcus Ferreira
 
-### About
+### 👥 About
 
 Computing Systems student at UFF, I'm self-taught in tech, having knowledge at programming logic and languages as: Java, C#, JavaScript and Python. I'm looking for my first job opportunity to improve my knowledge and experience.
 
-### Personal Information
+
+### 📄 Personal Information
 
 ```json
 {
@@ -22,23 +23,26 @@ Computing Systems student at UFF, I'm self-taught in tech, having knowledge at p
 }
 ```
 
-### Skills
+
+### 💻 Skills
 
 **Knowledge**
 
-``` Python, JavaScript, C#, Java, HTML/CSS, SQL ```
+Python, JavaScript, C#, Java, HTML/CSS, SQL
 
-``` Windows, Linux ```
+Windows, Linux
 
-``` Git, GitHub ```
+Git, GitHub, Visual Studio, Visual Studio Code
 
-### Education
+
+### 📚 Education
 
 *2019 - Present*: **UFF (Universidade Federal Fluminense)** - Technology in Computing Systems
 
 *2015*: **UNESA (Universidade Estácio de Sá)** - Business Administration
 
-### Contact
+
+### 📧 Contact
 
 **Linkedin**: [/emarcusferreira/](https://www.linkedin.com/in/emarcusferreira/)
 **GitHub**: [/marcus-ferreira](https://github.com/marcus-ferreira)
