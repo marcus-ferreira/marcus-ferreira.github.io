@@ -1,5 +1,3 @@
-## Marcus Ferreira
-
 ### About
 
 Computing Systems student at UFF, I'm self-taught in tech, having knowledge at programming logic and languages as: Java, C#, JavaScript and Python. I'm looking for my first job opportunity to improve my knowledge and experience.
