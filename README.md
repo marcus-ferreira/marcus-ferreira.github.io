@@ -26,9 +26,12 @@ Computing Systems student at UFF, I'm self-taught in tech, having knowledge at p
 
 ### Skills
 
-Programming: `Python, JavaScript, C#, Java, HTML/CSS, SQL` <br>
-OS: `Windows, Linux` <br>
-Tools: `Git, GitHub, Visual Studio, Visual Studio Code`
+Knowledge in:
+- Web applications, APIs, and databases with *Python*, *Flask* and *SQL*;
+- Code versioning with *Git* and *GitHub*;
+- Using *Visual Studio* and *Visual Studio Code*;
+- Designing simple pages with *HTML*, *CSS* and *JavaScript*;
+- Programming logic and OOP with *Java* and *C#*;
 
 
 ### Education
