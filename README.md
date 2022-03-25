@@ -37,12 +37,10 @@ Knowledge in:
 ### Education
 
 **UFF - Universidade Federal Fluminense** <br>
-Technology in Computing Systems <br>
-*2019 - Present*
+Technology in Computing Systems | *2019 - Present*
 
 **UNESA - Universidade Estácio de Sá** <br>
-Business Administration <br>
-*2015*
+Business Administration | *2015*
 
 
 ### Contact
