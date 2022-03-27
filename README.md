@@ -1,12 +1,10 @@
 <title>Marcus Ferreira</title>
 
 ### About
-
 Computing Systems student at UFF, I'm self-taught in tech, having knowledge at programming logic and languages as: Java, C#, JavaScript and Python. I'm looking for my first job opportunity to improve my knowledge and experience.
 
 
 ### Personal Information
-
 ```json
 {
   "name": "Marcus Ferreira",
@@ -25,7 +23,6 @@ Computing Systems student at UFF, I'm self-taught in tech, having knowledge at p
 
 
 ### Skills
-
 Knowledge in:
 - Web applications, APIs, and databases with *Python*, *Flask* and *SQL*
 - Code versioning with *Git* and *GitHub*
@@ -35,7 +32,6 @@ Knowledge in:
 
 
 ### Education
-
 **UFF - Universidade Federal Fluminense** <br>
 Technology in Computing Systems | *2019 - Present*
 
@@ -43,8 +39,14 @@ Technology in Computing Systems | *2019 - Present*
 Business Administration | *2015*
 
 
-### Contact
+### Courses
+- [Computational Thinking](https://www.dio.me/certificate/C2622D0B)
+- [Programming Logic Essentials](https://www.dio.me/certificate/2D990608)
+- [Introdution do Git and GitHub](https://www.dio.me/certificate/DBE1F5EC)
+- [Agile Projects with SCRUM](https://www.dio.me/certificate/556F3BB2)
 
+
+### Contact
 Linkedin: [/emarcusferreira/](https://www.linkedin.com/in/emarcusferreira/) <br>
 GitHub: [/marcus-ferreira](https://github.com/marcus-ferreira) <br>
 Email: [mv.ferreirapinto@gmail.com](mailto:mv.ferreirapinto@gmail.com) <br>
