@@ -40,10 +40,10 @@ Business Administration | *2015*
 
 
 ### Courses
-- [Computational Thinking](https://www.dio.me/certificate/C2622D0B)
-- [Programming Logic Essentials](https://www.dio.me/certificate/2D990608)
-- [Introdution do Git and GitHub](https://www.dio.me/certificate/DBE1F5EC)
-- [Agile Projects with SCRUM](https://www.dio.me/certificate/556F3BB2)
+- [Computational Thinking](https://www.dio.me/certificate/C2622D0B) | Digital Inovation One | *March 2022*
+- [Programming Logic Essentials](https://www.dio.me/certificate/2D990608) | Digital Inovation One | *March 2022*
+- [Introdution to Git and GitHub](https://www.dio.me/certificate/DBE1F5EC) | Digital Inovation One | *March 2022*
+- [Agile Projects with SCRUM](https://www.dio.me/certificate/556F3BB2) | Digital Inovation One | *March 2022*
 
 
 ### Contact
