@@ -1,0 +1,38 @@
+* {
+	margin: auto;
+	padding: auto;
+	text-align: center;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+	background-color: aliceblue;
+}
+
+a {
+	text-decoration: none;
+}
+
+header {
+	padding-bottom: 2%;
+}	
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+.container {
+	/* border: 1px solid #000; */
+	padding: 2%;
+}	
+
+.head {
+	padding: 10%;
+}
+
+.footer {
+	background-color: black;
+	color: white;
+}
+
