@@ -40,8 +40,9 @@ body {
 }
 
 .box img {
-	border: 5px solid var(--border-color);
+	border: 3px solid var(--border-color);
 	border-radius: 50%;
+	padding: 10px;
 }
 
 .box-text {
