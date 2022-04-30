@@ -35,14 +35,11 @@ body {
 	width: 500px;
 }
 
-.box > * {
-	margin: 15px 0;
-}
-
 .box img {
 	border: 3px solid var(--border-color);
 	border-radius: 50%;
 	padding: 10px;
+	margin-top: 20px;
 }
 
 .box-text {
@@ -50,6 +47,7 @@ body {
 	flex-direction: column;
 	justify-content: space-evenly;
 	align-items: center;
+	margin: 20px auto;
 }
 
 .box-text > * {
