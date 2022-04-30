@@ -3,6 +3,7 @@
 	--body-color: rgb(27, 20, 66);
 	--background-color: rgb(17, 11, 31);
 	--border-color: rgb(44, 170, 187);
+	--text-color: rgb(200, 200, 200);
 }
 
 * {
@@ -11,7 +12,7 @@
 	font-family: 'Montserrat', sans-serif;
 	text-decoration: none;
 	list-style: none;
-	color: white;
+	color: var(--text-color);
 }
 
 body {
@@ -107,7 +108,7 @@ body {
 }
 
 .skills-list > *:hover {
-	color: var(--body-color);
-	background-color: white;
+	color: var(--background-color);
+	background-color: var(--text-color);
 	cursor: default;
 }
