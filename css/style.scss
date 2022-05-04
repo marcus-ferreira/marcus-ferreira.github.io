@@ -1,0 +1,113 @@
+// Variables
+$body-gradient: linear-gradient(to bottom right, rgb(27, 20, 66), rgb(16, 13, 36));
+$body-color: rgb(27, 20, 66);
+$background-color: rgb(17, 11, 31);
+$border-color: rgb(44, 170, 187);
+$text-color: rgb(200, 200, 200);
+
+// Reset
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+	list-style: none;
+	color: $text-color;
+	background-image: $body-gradient;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.box {
+	background-color: $background-color;
+	box-shadow: 5px 5px 10px black;
+	padding: 30px;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 500px;
+
+	img {
+		border: 3px solid $border-color;
+		border-radius: 50%;
+		padding: 10px;
+		margin-top: 20px;
+	}
+
+	.box-text {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-evenly;
+		align-items: center;
+		margin: 20px auto;
+
+		* {
+			margin: 5px 0;
+		}
+
+		h1 {
+			font-size: 24px;
+			margin: 10px 0;
+		}
+
+		h2, h3 {
+			font-size: 16px;
+			font-weight: 100;
+		}
+	}
+}
+
+.social-icons {
+	width: 80%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+
+	i {
+		border: 2px solid $border-color;
+		border-radius: 5px;
+		padding: 10px;
+		transition: all 0.1s ease-in-out;
+		color: $border-color;
+	}
+	
+	i:hover {
+		background-color: $border-color;
+		color: $body-color;
+	}
+}
+
+.skills {
+	margin-top: 50px;
+	font-size: 14px;
+
+	h2 {
+		font-size: 16px;
+	}
+}
+
+.skills-list {
+	display: flex;
+	flex-wrap: wrap;
+
+	* {
+		border: 1px solid $body-color;
+		margin: 10px 10px 5px 0;
+		padding: 5px;
+		transition: all 0.1s ease-in-out;
+	}
+	
+	*:hover {
+		color: $background-color;
+		background-color: $text-color;
+		cursor: default;
+	}
+}
