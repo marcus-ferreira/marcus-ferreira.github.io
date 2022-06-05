@@ -1,0 +1,82 @@
+@import 'base';
+
+.header-container {
+	background-image: url("/assets/img/background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	color: white;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	>* {
+		margin: 10px;
+	}
+
+	h1 {
+		font-size: 4rem;
+	}
+
+	h2 {
+		font-size: 1rem;
+		font-weight: 100;
+	}
+
+	img {
+		border: 5px solid $border-color;
+		border-radius: 50%;
+		padding: 10px;
+		margin-top: 20px;
+	}
+
+	.social-icons {
+		display: flex;
+		justify-content: space-around;
+		align-items: center;
+		gap: 10px;
+	
+		a {
+			border: 2px solid $border-color;
+			border-radius: 5px;
+			padding: 10px;
+			transition: all 0.1s ease-in-out;
+			color: $border-color;
+		}
+		
+		a:hover {
+			background-color: $border-color;
+			color: $body-color;
+		}
+	}
+}
+
+
+.skills {
+	margin-top: 50px;
+	font-size: 14px;
+
+	h2 {
+		font-size: 16px;
+	}
+}
+
+.skills-list {
+	display: flex;
+	flex-wrap: wrap;
+
+	* {
+		border: 1px solid $body-color;
+		margin: 10px 10px 5px 0;
+		padding: 5px;
+		transition: all 0.1s ease-in-out;
+	}
+	
+	*:hover {
+		color: $background-color;
+		background-color: white;
+		cursor: default;
+	}
+}

@@ -1,35 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 * {
   margin: 0;
   padding: 0;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-}
-
-body {
   font-family: 'Montserrat', sans-serif;
   text-decoration: none;
   list-style: none;
-  color: #c8c8c8;
-  background-image: -webkit-gradient(linear, left top, right bottom, from(#1b1442), to(#100d24));
-  background-image: linear-gradient(to bottom right, #1b1442, #100d24);
-  height: 100vh;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
 }
 
-.box {
-  background-color: #110b1f;
-  -webkit-box-shadow: 5px 5px 10px black;
-          box-shadow: 5px 5px 10px black;
-  padding: 30px;
-  border-radius: 10px;
+.header-container {
+  background-image: url("/assets/img/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  color: white;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -43,49 +28,29 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  width: 500px;
 }
 
-.box img {
-  border: 3px solid #2caabb;
+.header-container > * {
+  margin: 10px;
+}
+
+.header-container h1 {
+  font-size: 4rem;
+}
+
+.header-container h2 {
+  font-size: 1rem;
+  font-weight: 100;
+}
+
+.header-container img {
+  border: 5px solid #2caabb;
   border-radius: 50%;
   padding: 10px;
   margin-top: 20px;
 }
 
-.box .box-text {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  margin: 20px auto;
-}
-
-.box .box-text * {
-  margin: 5px 0;
-}
-
-.box .box-text h1 {
-  font-size: 24px;
-  margin: 10px 0;
-}
-
-.box .box-text h2, .box .box-text h3 {
-  font-size: 16px;
-  font-weight: 100;
-}
-
-.social-icons {
-  width: 80%;
+.header-container .social-icons {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -94,9 +59,10 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  gap: 10px;
 }
 
-.social-icons i {
+.header-container .social-icons a {
   border: 2px solid #2caabb;
   border-radius: 5px;
   padding: 10px;
@@ -105,7 +71,7 @@ body {
   color: #2caabb;
 }
 
-.social-icons i:hover {
+.header-container .social-icons a:hover {
   background-color: #2caabb;
   color: #1b1442;
 }
@@ -137,7 +103,7 @@ body {
 
 .skills-list *:hover {
   color: #110b1f;
-  background-color: #c8c8c8;
+  background-color: white;
   cursor: default;
 }
 /*# sourceMappingURL=style.css.map */
