@@ -12,6 +12,7 @@ function calculate() {
 	let triggerTrap = document.querySelector("#trigger-trap").value
 	let cardsUsed = document.querySelector("#cards-used").value
 	let remainingLp = document.querySelector("#remaining-lp").value
+	let result = document.querySelector("#result")
 
 	// Victory Condition
 	if (victoryCondition == "total-annihilation") {
@@ -175,6 +176,5 @@ function calculate() {
 		rank = "S POW"
 	}
 
-	console.log(points + " points")
-	console.log(rank)
+	result.innerHTML = `<p>${points} points</p><p>${rank}</p>`
 }
