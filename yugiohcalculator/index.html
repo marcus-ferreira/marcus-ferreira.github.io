@@ -5,60 +5,85 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
 	<script src="script.js" defer></script>
 	<title>Yu-Gi-Oh! Forbidden Memories Rank Calculator</title>
 </head>
 
 <body>
 	<div>
-		Victory Condition
-		<select id="victory-condition">
-			<option value="total-annihilation">Total Annihilation</option>
-			<option value="victory-by-attrition">Victory by Attrition</option>
-			<option value="exodia-win">Exodia Win</option>
-		</select>
+		<div>Victory Condition</div>
+		<div>
+			<select id="victory-condition">
+				<option value="total-annihilation">Total Annihilation</option>
+				<option value="victory-by-attrition">Victory by Attrition</option>
+				<option value="exodia-win">Exodia Win</option>
+			</select>
+		</div>
 	</div>
 	<div>
-		Turns
-		<input type="number" id="turns" value="0">
+		<div>Turns</div>
+		<div>
+			<input type="number" id="turns" value="0">
+		</div>
 	</div>
 	<div>
-		Effective Attacks
-		<input type="number" id="effective-attacks" value="0">
+		<div>Effective Attacks</div>
+		<div>
+			<input type="number" id="effective-attacks" value="0">
+		</div>
 	</div>
 	<div>
-		Defensive Wins
-		<input type="number" id="defensive-wins" value="0">
+		<div>Defensive Wins</div>
+		<div>
+			<input type="number" id="defensive-wins" value="0">
+		</div>
 	</div>
 	<div>
-		Face-Down Plays
-		<input type="number" id="face-down-plays" value="0">
+		<div>Face-Down Plays</div>
+		<div>
+			<input type="number" id="face-down-plays" value="0">
+		</div>
 	</div>
 	<div>
-		Innitiate Fusion
-		<input type="number" id="innitiate-fusion" value="0">
+		<div>Innitiate Fusion</div>
+		<div>
+			<input type="number" id="innitiate-fusion" value="0">
+		</div>
 	</div>
 	<div>
-		Equip Magic
-		<input type="number" id="equip-magic" value="0">
+		<div>Equip Magic</div>
+		<div>
+			<input type="number" id="equip-magic" value="0">
+		</div>
 	</div>
 	<div>
-		Pure Magic
-		<input type="number" id="pure-magic" value="0">
+		<div>Pure Magic</div>
+		<div>
+			<input type="number" id="pure-magic" value="0">
+		</div>
 	</div>
 	<div>
-		Trigger Trap
-		<input type="number" id="trigger-trap" value="0">
+		<div>Trigger Trap</div>
+		<div>
+			<input type="number" id="trigger-trap" value="0">
+		</div>
 	</div>
 	<div>
-		Cards Used
-		<input type="number" id="cards-used" value="0">
+		<div>Cards Used</div>
+		<div>
+			<input type="number" id="cards-used" value="0">
+		</div>
 	</div>
 	<div>
-		Remaining LP
-		<input type="number" id="remaining-lp" value="8000">
+		<div>Remaining LP</div>
+		<div>
+			<input type="number" id="remaining-lp" value="8000">
+		</div>
 	</div>
-	<button onclick="calculate()">Calculate</button>
+	<div>
+		<button onclick="calculate()">Calculate</button>
+	</div>
 	<div id="result"></div>
 </body>
 

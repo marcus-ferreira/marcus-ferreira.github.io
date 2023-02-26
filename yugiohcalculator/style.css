@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: rgb(226, 226, 226);
+}
+
+div {
+	margin: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+button {
+	padding: 10px;
+	box-shadow: 4px 4px 10px rgb(78, 78, 78), -4px -4px 10px white;
+	border-radius: 10px;
+	border: none;
+}
+
+select,
+input {
+	padding: 10px;
+	box-shadow: inset 2px 2px 5px rgb(78, 78, 78), inset -2px -2px 5px white;
+	border-radius: 10px;
+	border: none;
+}
